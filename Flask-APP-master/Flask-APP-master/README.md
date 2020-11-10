@@ -1,3 +1,3 @@
-# Flask-APP
+# Atividade API Rest e Android
 
-Carolyne Carvalho
+Lucas Maciel Messias
